@@ -1,0 +1,21 @@
+preprocessing:
+  st_cols:
+    - 'no_of_adults'
+    - 'no_of_children'
+    - 'no_of_weekend_nights'
+    - 'no_of_week_nights'
+    - 'arrival_year'
+    - 'arrival_month'
+    - 'arrival_date'
+    - 'no_of_previous_cancellations'
+    - 'no_of_previous_bookings_not_canceled'   
+    - 'no_of_special_requests'
+  ro_cols:
+    - "avg_price_per_room"
+  ohe_cols:
+    - "type_of_meal_plan"
+    - "room_type_reserved"
+    - "market_segment_type"
+  ready_cols:
+    - "repeated_guest"
+    - "required_car_parking_space"
