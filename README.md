@@ -157,7 +157,3 @@ Computer Science Student | Artificial Intelligence
 
 Interested in Machine Learning, Data Analytics, AI Applications, and AI Agents.
 ```
-
-**قبل ما ترفعيه:** لو `requirements.txt` مش موجود فعلًا في المشروع، يا إما تضيفيه يا إما نشيل خطوة تثبيت الـ dependencies من الـ README، علشان تعليمات التشغيل تبقى مطابقة للمشروع.
-
-ولو حابة، ممكن بعد كده نعمل نسخة أقوى جدًا بصريًا للـ README، فيها badges وTable of Contents ولقطات للمشروع، بحيث يبقى مناسب للتقديم على منح أو فرص تدريب.
