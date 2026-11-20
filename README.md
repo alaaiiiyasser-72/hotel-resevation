@@ -151,7 +151,7 @@ The README can be extended with further technical details, including:
 
 ## 👩‍💻 Author
 
-**Alaa Ibrahim**
+**Alaa Yasser**
 
 Computer Science Student | Artificial Intelligence
 
