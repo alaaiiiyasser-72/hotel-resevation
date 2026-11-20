@@ -34,7 +34,7 @@ Hotel Reservations/
 │   ├── processing/
 │   ├── training/
 │   ├── utils/
-│   └── xgb.py
+│ 
 │
 ├── main.py
 └── README.md
@@ -158,4 +158,4 @@ The README can be extended with further technical details, including:
 Computer Science Student | Artificial Intelligence
 
 Interested in Machine Learning, Data Analytics, AI Applications, and AI Agents.
-```
+
